@@ -1,0 +1,23 @@
+[
+    {"Nome": "Alice", "Idade": 25, "Cidade": "São Paulo"},
+    {"Nome": "Bob", "Idade": 30, "Cidade": "Rio de Janeiro"},
+    {"Nome": "Charlie", "Idade": 35, "Cidade": "Belo Horizonte"},
+    {"Nome": "Alice", "Idade": 25, "Cidade": "São Paulo"},
+    {"Nome": "Bob", "Idade": 30, "Cidade": "Rio de Janeiro"},
+    {"Nome": "Charlie", "Idade": 35, "Cidade": "Belo Horizonte"},
+    {"Nome": "Alice", "Idade": 25, "Cidade": "São Paulo"},
+    {"Nome": "Bob", "Idade": 30, "Cidade": "Rio de Janeiro"},
+    {"Nome": "Charlie", "Idade": 35, "Cidade": "Belo Horizonte"},
+    {"Nome": "Alice", "Idade": 25, "Cidade": "São Paulo"},
+    {"Nome": "Bob", "Idade": 30, "Cidade": "Rio de Janeiro"},
+    {"Nome": "Charlie", "Idade": 35, "Cidade": "Belo Horizonte"},
+    {"Nome": "Alice", "Idade": 25, "Cidade": "São Paulo"},
+    {"Nome": "Bob", "Idade": 30, "Cidade": "Rio de Janeiro"},
+    {"Nome": "Charlie", "Idade": 35, "Cidade": "Belo Horizonte"},
+    {"Nome": "Alice", "Idade": 25, "Cidade": "São Paulo"},
+    {"Nome": "Bob", "Idade": 30, "Cidade": "Rio de Janeiro"},
+    {"Nome": "Charlie", "Idade": 35, "Cidade": "Belo Horizonte"},
+    {"Nome": "Alice", "Idade": 25, "Cidade": "São Paulo"},
+    {"Nome": "Bob", "Idade": 30, "Cidade": "Rio de Janeiro"},
+    {"Nome": "Charlie", "Idade": 35, "Cidade": "Belo Horizonte"}
+]
