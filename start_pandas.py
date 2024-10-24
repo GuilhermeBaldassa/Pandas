@@ -1,4 +1,4 @@
-import pandas as pd # type: ignore
+import pandas as pd 
 
 # Criando um DataFrame simples
 data = {
@@ -13,7 +13,7 @@ df = pd.DataFrame(data)
 print(df)
 
 # Acessando uma coluna
-print(df['Nome'])
+# print(df['Nome'])
 
 # Resumo estatístico
-print(df.describe())
+# print(df.describe())

@@ -1,8 +1,8 @@
-Nome,Categoria,Preço,Estoque
+Nome,Categoria,Preco,Estoque
 Camiseta,Clothing,29.99,150
-Calça,Clothing,49.99,100
-Tênis,Shoes,89.99,75
-Relógio,Accessories,199.99,50
+Calca,Clothing,49.99,100
+Tenis,Shoes,89.99,75
+Relogio,Accessories,199.99,50
 Mochila,Bags,59.99,30
 Fone de Ouvido,Accessories,129.99,200
 Jaqueta,Clothing,99.99,80
@@ -10,9 +10,9 @@ Bicicleta,Sports,499.99,20
 Cadeira,Office,249.99,10
 Mesa,Office,399.99,5
 Camiseta,Clothing,29.99,150
-Calça,Clothing,49.99,100
-Tênis,Shoes,89.99,75
-Relógio,Accessories,199.99,50
+calca,Clothing,49.99,100
+Tenis,Shoes,89.99,75
+Relogio,Accessories,199.99,50
 Mochila,Bags,59.99,30
 Fone de Ouvido,Accessories,129.99,200
 Jaqueta,Clothing,99.99,80
@@ -20,9 +20,9 @@ Bicicleta,Sports,499.99,20
 Cadeira,Office,249.99,10
 Mesa,Office,399.99,5
 Camiseta,Clothing,29.99,150
-Calça,Clothing,49.99,100
-Tênis,Shoes,89.99,75
-Relógio,Accessories,199.99,50
+Calca,Clothing,49.99,100
+Tenis,Shoes,89.99,75
+Relogio,Accessories,199.99,50
 Mochila,Bags,59.99,30
 Fone de Ouvido,Accessories,129.99,200
 Jaqueta,Clothing,99.99,80
@@ -30,9 +30,9 @@ Bicicleta,Sports,499.99,20
 Cadeira,Office,249.99,10
 Mesa,Office,399.99,5
 Camiseta,Clothing,29.99,150
-Calça,Clothing,49.99,100
-Tênis,Shoes,89.99,75
-Relógio,Accessories,199.99,50
+Calca,Clothing,49.99,100
+Tenis,Shoes,89.99,75
+Relogio,Accessories,199.99,50
 Mochila,Bags,59.99,30
 Fone de Ouvido,Accessories,129.99,200
 Jaqueta,Clothing,99.99,80
@@ -40,9 +40,9 @@ Bicicleta,Sports,499.99,20
 Cadeira,Office,249.99,10
 Mesa,Office,399.99,5
 Camiseta,Clothing,29.99,150
-Calça,Clothing,49.99,100
-Tênis,Shoes,89.99,75
-Relógio,Accessories,199.99,50
+Calca,Clothing,49.99,100
+Tenis,Shoes,89.99,75
+Relogio,Accessories,199.99,50
 Mochila,Bags,59.99,30
 Fone de Ouvido,Accessories,129.99,200
 Jaqueta,Clothing,99.99,80
@@ -50,9 +50,9 @@ Bicicleta,Sports,499.99,20
 Cadeira,Office,249.99,10
 Mesa,Office,399.99,5
 Camiseta,Clothing,29.99,150
-Calça,Clothing,49.99,100
-Tênis,Shoes,89.99,75
-Relógio,Accessories,199.99,50
+Calca,Clothing,49.99,100
+Tenis,Shoes,89.99,75
+Relogio,Accessories,199.99,50
 Mochila,Bags,59.99,30
 Fone de Ouvido,Accessories,129.99,200
 Jaqueta,Clothing,99.99,80
@@ -60,9 +60,9 @@ Bicicleta,Sports,499.99,20
 Cadeira,Office,249.99,10
 Mesa,Office,399.99,5
 Camiseta,Clothing,29.99,150
-Calça,Clothing,49.99,100
-Tênis,Shoes,89.99,75
-Relógio,Accessories,199.99,50
+Calca,Clothing,49.99,100
+Tenis,Shoes,89.99,75
+Relogio,Accessories,199.99,50
 Mochila,Bags,59.99,30
 Fone de Ouvido,Accessories,129.99,200
 Jaqueta,Clothing,99.99,80
@@ -70,9 +70,9 @@ Bicicleta,Sports,499.99,20
 Cadeira,Office,249.99,10
 Mesa,Office,399.99,5
 Camiseta,Clothing,29.99,150
-Calça,Clothing,49.99,100
-Tênis,Shoes,89.99,75
-Relógio,Accessories,199.99,50
+Calca,Clothing,49.99,100
+Tenis,Shoes,89.99,75
+Relogio,Accessories,199.99,50
 Mochila,Bags,59.99,30
 Fone de Ouvido,Accessories,129.99,200
 Jaqueta,Clothing,99.99,80
@@ -80,9 +80,9 @@ Bicicleta,Sports,499.99,20
 Cadeira,Office,249.99,10
 Mesa,Office,399.99,5
 Camiseta,Clothing,29.99,150
-Calça,Clothing,49.99,100
-Tênis,Shoes,89.99,75
-Relógio,Accessories,199.99,50
+Calca,Clothing,49.99,100
+Tenis,Shoes,89.99,75
+Relogio,Accessories,199.99,50
 Mochila,Bags,59.99,30
 Fone de Ouvido,Accessories,129.99,200
 Jaqueta,Clothing,99.99,80
@@ -90,9 +90,9 @@ Bicicleta,Sports,499.99,20
 Cadeira,Office,249.99,10
 Mesa,Office,399.99,5
 Camiseta,Clothing,29.99,150
-Calça,Clothing,49.99,100
-Tênis,Shoes,89.99,75
-Relógio,Accessories,199.99,50
+Calca,Clothing,49.99,100
+Tenis,Shoes,89.99,75
+Relogio,Accessories,199.99,50
 Mochila,Bags,59.99,30
 Fone de Ouvido,Accessories,129.99,200
 Jaqueta,Clothing,99.99,80
@@ -100,9 +100,9 @@ Bicicleta,Sports,499.99,20
 Cadeira,Office,249.99,10
 Mesa,Office,399.99,5
 Camiseta,Clothing,29.99,150
-Calça,Clothing,49.99,100
-Tênis,Shoes,89.99,75
-Relógio,Accessories,199.99,50
+Calca,Clothing,49.99,100
+Tenis,Shoes,89.99,75
+Relogio,Accessories,199.99,50
 Mochila,Bags,59.99,30
 Fone de Ouvido,Accessories,129.99,200
 Jaqueta,Clothing,99.99,80
@@ -110,9 +110,9 @@ Bicicleta,Sports,499.99,20
 Cadeira,Office,249.99,10
 Mesa,Office,399.99,5
 Camiseta,Clothing,29.99,150
-Calça,Clothing,49.99,100
-Tênis,Shoes,89.99,75
-Relógio,Accessories,199.99,50
+Calca,Clothing,49.99,100
+Tenis,Shoes,89.99,75
+Relogio,Accessories,199.99,50
 Mochila,Bags,59.99,30
 Fone de Ouvido,Accessories,129.99,200
 Jaqueta,Clothing,99.99,80
